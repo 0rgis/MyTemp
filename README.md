@@ -1,2 +1,3 @@
 # MyTemp
-Wee scipt i run to display my pc tmp
+Wee script i run to display my pc tmp, just a fancy command in a script.
+
